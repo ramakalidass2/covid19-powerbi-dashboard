@@ -1,0 +1,2 @@
+ 📌 [Our World in Data COVID-19 Dataset](https://github.com/owid/covid-19-data)
+Source license: **CC BY 4.0 (Creative Commons)** — Free to use with attribution
